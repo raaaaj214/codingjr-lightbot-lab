@@ -14,13 +14,13 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4.3.3",
-    "daisyui": "^5.7.16",
-    "eslint": "10.10.0",
-    "rimraf": "^6.1.2",
+    "@tailwindcss/vite": "^4.3.5",
+    "daisyui": "^5.8.0",
+    "eslint": "10.14.0",
+    "rimraf": "^6.1.4",
     "tailwindcss": "^4.3.3",
     "vite": "^6.2.0",
-    "vite-plugin-singlefile": "^2.3.3"
+    "vite-plugin-singlefile": "^2.3.4"
   },
   "repository": {
     "type": "git",
